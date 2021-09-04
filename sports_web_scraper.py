@@ -5,7 +5,7 @@ Date: 2-21-2020
 
 Project Specs:
 This is a web scrapper
-1. He wants all the team names from the first column
+1. The client wants all the team names from the first column
 2. Ingore team rankings
 3. I am scraping the first data column of from each team on that site,
    so 2 columns total.
